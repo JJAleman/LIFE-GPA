@@ -1,5 +1,0 @@
-\about.png
-\aboutpage.png
-\contactpage.png
-\homeapge.png
-\indepthlook.png
